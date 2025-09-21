@@ -1,1 +1,2 @@
-# GesternosCZ.github.io
+Website of "furyoutingy"
+under developement
