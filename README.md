@@ -1,2 +1,2 @@
-Website of "furyoutingy"
+Website of "furryoutingy"
 under developement
